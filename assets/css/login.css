@@ -1,0 +1,69 @@
+#loginsignup{
+  margin-left: 40px;
+  width:20vw;
+  margin-bottom: 1em;
+  /* margin-right:2vw; */
+  /* margin-left: 2vw; */
+  
+  }
+  
+  .loginform input[name="login"]{
+      background-color: #3665f3;
+    color: white;
+    flex-grow: 0;
+    margin-left: auto;
+    font-size: 1.2em;
+    padding: 0.2em;
+    cursor: pointer;
+      border: 0;
+      margin-left: 2vw;
+  }
+  
+  .signupform input[name="signup"]{
+          background-color: #3665f3;
+          color: white;
+          flex-grow: 0;
+          /* margin-left: auto; */
+          font-size: 1.2em;
+          padding: 0.2em;
+          cursor: pointer;
+          border: 0;
+          /* margin-left: 2vw; */
+      }
+  
+  #loginsignup label {
+  
+      float: left;
+      clear: left;
+      margin-bottom: 1em;
+      margin-right: 2vw;
+      margin-left: 2vw;
+  }
+  
+  #loginsignup input {
+  
+      float: left;
+      clear: left;
+      margin-bottom: 1em;
+      margin-right: 2vw;
+      margin-left: 2vw;
+  }
+  
+  .signupform select {
+  
+      float: left;
+      clear: left;
+      /* margin-bottom: 1em;
+      margin-right: 2vw;
+      margin-left: 2vw; */
+  }
+  .signupform {
+      float: right;
+      margin-right: 22vw;
+  }
+  .loginform {
+      float: left;
+      margin-left: 30vw;
+  }
+  
+  
